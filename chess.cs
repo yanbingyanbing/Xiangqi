@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -125,8 +125,7 @@ namespace MyChess
             _chess[10, 7] = Piece.红相; _chess[10, 8] = Piece.红马; _chess[10, 9] = Piece.红车;
             _chess[8, 2] = Piece.红炮; _chess[8, 8] = Piece.红炮;
             _chess[7, 1] = Piece.红卒; _chess[7, 3] = Piece.红卒; _chess[7, 5] = Piece.红卒;
-            _chess[7, 7] = Piece.红卒; 
-            _chess[7, 9] = Piece.红卒;
+            _chess[7, 7] = Piece.红卒; _chess[7, 9] = Piece.红卒;
         }
 
         //类方法，拾起棋子
