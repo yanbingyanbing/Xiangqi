@@ -1,0 +1,74 @@
+  1 using System;
+  2 using System.Collections.Generic;
+  3 using System.Linq;
+  4 using System.Text;
+  5 using System.Windows.Forms;
+  6 using System.Drawing;
+  7 
+  8 namespace 象棋_封_
+  9 {
+ 10     enum chess_type
+ 11     {
+ 12         blank,
+ 13         jiang,
+ 14         che,
+ 15         ma,
+ 16         pao,
+ 17         xiang,
+ 18         zu,
+ 19         shi
+ 20     };//棋类的枚举类型
+ 21     enum player_type
+ 22     {
+ 23         blank,
+ 24         red,
+ 25         blue,
+ 26     };//玩家类别的枚举类型
+ 27     abstract class Chess
+ 28     {
+ 29         private static Chess[] cover_blue =new Chess[16];//被吃区
+ 30         private static int r=0;
+ 31         private static Chess[] cover_red = new Chess[16];//被吃区
+ 32         private static int f=0;
+ 33         protected static int chosenX;
+ 34         protected static int chosenY;
+ 35         public static bool chosen;
+ 36         static int n = 1;
+ 37         public static player_type control_side;
+ 38         public PictureBox PB;
+ 39         public chess_type type;
+ 40         public player_type side;
+ 41         public Chess()
+ 42         {
+ 43             side = player_type.blank;
+ 44             type = chess_type.blank;
+ 45         }
+ 46         public abstract bool Move_judge(object sender, int X, int Y, Chess[][] checkerboard);
+ 47         public abstract void Put_picture();
+ 48         //public void Assignment(chess_type ct, player_type pt, Image pic)
+ 49         //{
+ 50         //    side = pt;
+ 51         //    type = ct;
+ 52         //    PB.Image = pic;
+ 53         //}//给棋子赋值
+ 54         public void Bg_Tored()
+ 55         {
+ 56             this.PB.BackColor = Color.Red;
+ 57         }//背景变为红色
+ 58         public void Bg_Toblank()
+ 59         {
+ 60             this.PB.BackColor = Color.Transparent;
+ 61         }//背景变为白色
+ 62         private void Chess_Toblank(ref Chess a, PictureBox PB)
+ 63         {
+ 64             this.Bg_Toblank();
+ 65             this.PB.Image = null;
+ 66             a = new Chess_blank(PB);
+ 67         }//棋子属性清空
+ 68         public static void Clearground(Main f, ref Chess[][] checkerboard)//布置战场
+ 69         {
+ 70             int i, j;
+ 71             Control[] col_blue=null;
+ 72             Control[] col_red=null;
+ 73             Chess.control_side = player_type.red;
+ 74             Chess.chosen = false;
