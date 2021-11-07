@@ -1,0 +1,104 @@
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\andyi\source\repos\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\andyi\source\repos\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\andyi\source\repos\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\andyi\source\repos\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\andyi\source\repos\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\source\repos\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\source\repos\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\Seayul\source\repos\新建文件夹 (2)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\Desktop\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\andyi\Desktop\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\andyi\Desktop\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\andyi\Desktop\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\andyi\Desktop\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\Desktop\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\Desktop\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\LB\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\Desktop\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\LB\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csprojAssemblyReference.cache
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\andyi\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.exe
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.deps.json
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.json
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.runtimeconfig.dev.json
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\bin\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.AssemblyReference.cache
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfoInputs.cache
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.AssemblyInfo.cs
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.csproj.CoreCompileInputs.cache
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.dll
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.pdb
+C:\Users\迪\Desktop\XiangQi(4)(1)\XiangQi(4)\XiangQi\XiangQi\obj\Debug\netcoreapp3.1\XiangQi.genruntimeconfig.cache

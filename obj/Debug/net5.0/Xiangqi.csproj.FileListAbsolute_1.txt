@@ -1,0 +1,16 @@
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\Xiangqi.exe
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\Xiangqi.deps.json
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\Xiangqi.runtimeconfig.json
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\Xiangqi.runtimeconfig.dev.json
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\Xiangqi.dll
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\ref\Xiangqi.dll
+C:\Users\dghai\Desktop\Xiangqi\bin\Debug\net5.0\Xiangqi.pdb
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.csproj.AssemblyReference.cache
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.AssemblyInfoInputs.cache
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.AssemblyInfo.cs
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.csproj.CoreCompileInputs.cache
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.dll
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\ref\Xiangqi.dll
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.pdb
+C:\Users\dghai\Desktop\Xiangqi\obj\Debug\net5.0\Xiangqi.genruntimeconfig.cache
