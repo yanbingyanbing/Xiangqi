@@ -21,30 +21,30 @@ namespace XiangQi{
     }
 
     class General : Piece{   //将
-        
+        public GameBoard theboard = new GameBoard();
     }
 
     class Advisor : Piece{   //仕
-
+        public GameBoard theboard = new GameBoard();
     }
 
     class Horse : Piece{   //马
-
+        public GameBoard theboard = new GameBoard();
     }
 
     class Cannon : Piece{   //炮
-
+        public GameBoard theboard = new GameBoard();
     }
 
     class Elephant : Piece{   //象
-
+        public GameBoard theboard = new GameBoard();
     }
 
     class Rook : Piece{   //车
-
+        public GameBoard theboard = new GameBoard();
     }
 
     class Soldier : Piece{   //兵
-
+        public GameBoard theboard = new GameBoard();
     }
 }
