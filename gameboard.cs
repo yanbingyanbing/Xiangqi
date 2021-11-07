@@ -1,6 +1,8 @@
 using System;
+
 namespace Xiangqi{
     class GameBoard{
+
         public int Letter_To_Number_swtich(char horizontal){
             int h = 0;
             switch(horizontal){
@@ -98,14 +100,14 @@ namespace Xiangqi{
                     }
                      switch (theboard[i,j].type)
                      {
-                         case Piece_type.blank:Console.Write("十");break;
-                         case Piece_type.Rook:Console.Write("车");break;
-                         case Piece_type.Horse:Console.Write("马");break;
-                         case Piece_type.Elephant:Console.Write("象");break;
-                         case Piece_type.Advisor: Console.Write("士"); break;
-                         case Piece_type.General:Console.Write("帅");break;
-                         case Piece_type.Cannon:Console.Write("炮");break;
-                         case Piece_type.Soldier:Console.Write("兵");break;
+                         case Piece_type.blank: Console.Write("十");break;
+                         case Piece_type.Rook: Console.Write("车");break;
+                         case Piece_type.Horse: Console.Write("马");break;
+                         case Piece_type.Elephant: Console.Write("象");break;
+                         case Piece_type.Advisor:  Console.Write("士"); break;
+                         case Piece_type.General: Console.Write("帅");break;
+                         case Piece_type.Cannon: Console.Write("炮");break;
+                         case Piece_type.Soldier: Console.Write("兵");break;
                          default:break;
                      }
                     if (j == 8)//横坐标的右边界
