@@ -1,6 +1,8 @@
 using System;
+using System.Collections.Generic;
+using System.Text;
 
-namespace XiangQi{
+namespace Xiangqi{
     //棋子类型
     public enum Piece_type{
         blank,
@@ -20,31 +22,37 @@ namespace XiangQi{
         red
     }
 
-    class General : Piece{   //将
+    public class Board{
+        Piece[,] board = new Piece[10, 9];
+        GameBoard b = new GameBoard();
+       
+    }
+
+    class General {   //将
         public GameBoard theboard = new GameBoard();
     }
 
-    class Advisor : Piece{   //仕
+    class Advisor {   //仕
         public GameBoard theboard = new GameBoard();
     }
 
-    class Horse : Piece{   //马
+    class Horse {   //马
         public GameBoard theboard = new GameBoard();
     }
 
-    class Cannon : Piece{   //炮
+    class Cannon {   //炮
         public GameBoard theboard = new GameBoard();
     }
 
-    class Elephant : Piece{   //象
+    class Elephant {   //象
         public GameBoard theboard = new GameBoard();
     }
 
-    class Rook : Piece{   //车
+    class Rook {   //车
         public GameBoard theboard = new GameBoard();
     }
 
-    class Soldier : Piece{   //兵
+    class Soldier {   //兵
         public GameBoard theboard = new GameBoard();
     }
 }
