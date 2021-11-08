@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace XiangQi
+namespace Xiangqi
 {
-    class gamedisplay{
+    class GameDisplay{
 
         //画棋子
         public void DisplayBorad()

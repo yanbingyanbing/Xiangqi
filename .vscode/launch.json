@@ -19,6 +19,7 @@
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+            "terminal.integrated.shellArgs.windows":["/k","chcp 65001"],
             "console": "internalConsole",
             "stopAtEntry": false
         },

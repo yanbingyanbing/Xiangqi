@@ -36,8 +36,8 @@ namespace Xiangqi{
                 case 8: letter = 'i'; break;
                 default: break;
             }
-            return h;*/
-        }
+            return h;
+        }*/
 
         //给棋盘所有棋子赋值
         public void GiveThePiece()
